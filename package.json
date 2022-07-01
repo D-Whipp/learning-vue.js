@@ -1,0 +1,22 @@
+{
+  "name": "learning-vue.js-by-michael-sullivan",
+  "version": "1.0.0",
+  "description": "learning vue.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D-Whipp/learning-vue.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/D-Whipp/learning-vue.js/issues"
+  },
+  "homepage": "https://github.com/D-Whipp/learning-vue.js#readme",
+  "dependencies": {
+    "vue": "^3.2.37"
+  }
+}
